@@ -1,18 +1,5 @@
 first cmd  
-this is test
-bye
 
-
-
-change 1
-
-
-change 2
-
-change 3
-
-
-change 4
 
 
 
